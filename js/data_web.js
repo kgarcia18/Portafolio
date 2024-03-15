@@ -1,12 +1,5 @@
 let lista_webs = [
     {
-        titulo: "Memoria",
-        img: "https://github.com/kgarcia18/img/blob/main/img/Memoria.png?raw=true",
-        link_repo: "https://github.com/kgarcia18/kgarcia18-P1_JuegoDeMemoria_2024_VBach",
-        githun_page: "https://kgarcia18.github.io/kgarcia18-P1_JuegoDeMemoria_2024_VBach/",
-        descripcion: "Este juego clásico y entretenido está diseñado para desafiar y estimular las mentes jóvenes mientras se divierten. En este juego, los niños se enfrentan a una serie de cartas colocadas boca abajo, cada una con una imagen diferente."
-    },
-    {
         titulo: "Página",
         img: "https://github.com/kgarcia18/img/blob/main/img/Pagina.png?raw=true",
         link_repo: "https://github.com/kgarcia18/1P_Prueba1?tab=readme-ov-file",
@@ -19,7 +12,14 @@ let lista_webs = [
         link_repo: "https://github.com/kgarcia18/2P_Trivago?tab=readme-ov-file",
         githun_page: "https://kgarcia18.github.io/2P_Trivago/",
         descripcion: "Una página básica de diseño de viajes es una plataforma digital que simplifica la planificación de viajes. Permite a los usuarios explorar destinos, buscar alojamientos, encontrar actividades y reservar vuelos o transporte de manera eficiente."
-    }
+    },
+    {
+        titulo: "Memoria",
+        img: "https://github.com/kgarcia18/img/blob/main/img/Memoria.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/kgarcia18-P1_JuegoDeMemoria_2024_VBach",
+        githun_page: "https://kgarcia18.github.io/kgarcia18-P1_JuegoDeMemoria_2024_VBach/",
+        descripcion: "Este juego clásico y entretenido está diseñado para desafiar y estimular las mentes jóvenes mientras se divierten. En este juego, los niños se enfrentan a una serie de cartas colocadas boca abajo, cada una con una imagen diferente."
+    },
     
 ];
 
