@@ -2,15 +2,7 @@
     width: 100%;
     height: 100vh;
     display: grid;
-    grid-template-columns: 27rem 1fr;
+    grid-template-columns: 20rem 1fr;
     grid-template-rows: 9rem 1fr;
     text-align: center;
-}
-.pagina{
-    grid-column-start: 2;
-    grid-column-end: 2; 
-
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: repeat(2, 1fr);
 }

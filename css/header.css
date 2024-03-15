@@ -9,10 +9,10 @@
     border-bottom: 1px solid rgb(238, 194, 194);
 }
 .logo{
-    width: 5rem;
-    height: 5rem;
+    width: 4rem;
+    height: 4rem;
     border-radius: 100%;
-    background-color:rgb(245, 150, 115);
+    background-color: rgb(240, 176, 123);
     color: wheat;
     font-size: 2rem;
     font-weight: 600;
@@ -21,8 +21,8 @@
     justify-content: center;
 }
 .header nav{
-    height: 5rem;
-    background-color: rgb(226, 162, 143);
+    height: 4rem;
+    background-color: rgb(223, 146, 96);
     font-size: 2rem;
     padding: 0px 5rem;
     border-radius: 3rem;
@@ -35,9 +35,9 @@
 
 .btn_header{
     width: 13rem;
-    height: 5rem;
-    background-color:rgb(235, 138, 103);
-    color: wheat;
+    height: 4rem;
+    background-color: rgb(240, 176, 123);
+    color: rgb(187, 109, 64);
     border-radius: 3rem;
     font-size: 2rem;
 
