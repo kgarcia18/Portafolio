@@ -2,8 +2,8 @@ let lista_webs = [
     {
         titulo: "Tienda Api",
         img: "https://github.com/kgarcia18/img/blob/main/img/Tienda_Api.png?raw=true",
-        link_repo: "https://github.com/kgarcia18/EjercicioDeTienda",
-        githun_page: "https://kgarcia18.github.io/EjercicioDeTienda/",
+        link_repo: "https://github.com/kgarcia18/TiendaAPI_2024",
+        githun_page: "https://kgarcia18.github.io/TiendaAPI_2024/",
         descripcion: " El proyecto está diseñado para proporcionar una estructura sencilla y funcional que permite gestionar productos, usuarios y órdenes. Es ideal para aprender y experimentar con el desarrollo de API y la integración de una tienda online."
     },
     {
