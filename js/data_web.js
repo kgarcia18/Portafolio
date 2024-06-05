@@ -1,24 +1,46 @@
 let lista_webs = [
     {
-        titulo: "Página",
-        img: "https://github.com/kgarcia18/img/blob/main/img/Pagina.png?raw=true",
-        link_repo: "https://github.com/kgarcia18/1P_Prueba1?tab=readme-ov-file",
-        githun_page: "https://kgarcia18.github.io/1P_Prueba1/",
-        descripcion: "Una página web básica creada en HTML es una interfaz simple diseñada para mostrar contenido estático en línea. Utilizando HTML (HyperText Markup Language), esta página puede contener texto, imágenes y enlaces organizados en un diseño estructurado."
+        titulo: "Tienda Api",
+        img: "https://github.com/kgarcia18/img/blob/main/img/Tienda_Api.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/EjercicioDeTienda",
+        githun_page: "https://kgarcia18.github.io/EjercicioDeTienda/",
+        descripcion: " El proyecto está diseñado para proporcionar una estructura sencilla y funcional que permite gestionar productos, usuarios y órdenes. Es ideal para aprender y experimentar con el desarrollo de API y la integración de una tienda online."
     },
     {
-        titulo: "Trivago",
-        img: "https://github.com/kgarcia18/img/blob/main/img/Trivago.png?raw=true",
-        link_repo: "https://github.com/kgarcia18/2P_Trivago?tab=readme-ov-file",
-        githun_page: "https://kgarcia18.github.io/2P_Trivago/",
-        descripcion: "Una página básica de diseño de viajes es una plataforma digital que simplifica la planificación de viajes. Permite a los usuarios explorar destinos, buscar alojamientos, encontrar actividades y reservar vuelos o transporte de manera eficiente."
-    },
-    {
-        titulo: "Memoria",
+        titulo: "Juego De Memoria",
         img: "https://github.com/kgarcia18/img/blob/main/img/Memoria.png?raw=true",
-        link_repo: "https://github.com/kgarcia18/kgarcia18-P1_JuegoDeMemoria_2024_VBach",
-        githun_page: "https://kgarcia18.github.io/kgarcia18-P1_JuegoDeMemoria_2024_VBach/",
-        descripcion: "Este juego clásico y entretenido está diseñado para desafiar y estimular las mentes jóvenes mientras se divierten. En este juego, los niños se enfrentan a una serie de cartas colocadas boca abajo, cada una con una imagen diferente."
+        link_repo: "https://github.com/kgarcia18/JuegoDeMemoria_2024",
+        githun_page: "https://kgarcia18.github.io/JuegoDeMemoria_2024/",
+        descripcion: "El objetivo de este proyecto es crear una página simple que permita a los usuarios jugar un juego de memoria. Los usuarios harán clic en tarjetas para descubrirlas y tratar de encontrar pares coincidentes."
+    },
+    {
+        titulo: "Todo List",
+        img: "https://github.com/kgarcia18/img/blob/main/img/TodoList.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/TodoList_2024",
+        githun_page: "https://kgarcia18.github.io/TodoList_2024/",
+        descripcion: "El objetivo de este proyecto es crear una página simple que permita a los usuarios gestionar una lista de tareas. Los usuarios podrán agregar nuevas tareas y ver las tareas actuales."
+    },
+    
+    {
+        titulo: "Calculadora",
+        img: "https://github.com/kgarcia18/img/blob/main/img/Calculadora.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/Calculadora_2024",
+        githun_page: "https://kgarcia18.github.io/Calculadora_2024/",
+        descripcion: "Contiene una calculadora básica desarrollada con HTML, CSS y JavaScript. Esta aplicación web permite realizar operaciones aritméticas simples como suma, resta, multiplicación y división."
+    },
+    {
+        titulo: "Buscador",
+        img: "https://github.com/kgarcia18/img/blob/main/img/Buscador.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/Buscador_2024",
+        githun_page: "https://kgarcia18.github.io/Buscador_2024/",
+        descripcion: "Este proyecto es un sitio web estático, simple pero elegante, para una tienda de viajes construido con HTML y CSS. El objetivo es proporcionar una interfaz limpia y fácil de usar para los usuarios que buscan explorar y comprar productos y servicios relacionados con los viajes."
+    },
+    {
+        titulo: "Starbucks",
+        img: "https://github.com/kgarcia18/img/blob/main/img/Starbucks.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/Starbucks_2024",
+        githun_page: "https://kgarcia18.github.io/Starbucks_2024/",
+        descripcion: "Este proyecto es una implementación simple de un motor de búsqueda utilizando HTML y CSS, diseñado para proporcionar una interfaz de usuario limpia y fácil de usar para realizar búsquedas en la web."
     },
     
 ];

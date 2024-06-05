@@ -1,8 +1,0 @@
-.root{
-    width: 100%;
-    height: 100vh;
-    display: grid;
-    grid-template-columns: 20rem 1fr;
-    grid-template-rows: 9rem 1fr;
-    text-align: center;
-}
