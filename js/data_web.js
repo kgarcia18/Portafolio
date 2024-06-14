@@ -42,7 +42,13 @@ let lista_webs = [
         githun_page: "https://kgarcia18.github.io/Starbucks_2024/",
         descripcion: "Este proyecto es una implementación simple de un motor de búsqueda utilizando HTML y CSS, diseñado para proporcionar una interfaz de usuario limpia y fácil de usar para realizar búsquedas en la web."
     },
-    
+    {
+        titulo: "Generador de Contraseña",
+        img: "https://github.com/kgarcia18/img/blob/main/img/GeneradorDeContrase%C3%B1a.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/GeneradorDeContrasena_2024",
+        githun_page: "https://kgarcia18.github.io/GeneradorDeContrasena_2024/",
+        descripcion: "Este proyecto consiste en un generador de contraseñas interactivo desarrollado con HTML para la estructura básica, CSS para estilizar la interfaz y hacerla responsive, y JavaScript para la lógica que genera contraseñas seguras basadas en criterios definidos por el usuario, como longitud y tipos de caracteres."
+    }  
 ];
 
 export{lista_webs};
