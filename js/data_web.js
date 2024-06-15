@@ -55,7 +55,14 @@ let lista_webs = [
         link_repo: "https://github.com/kgarcia18/HerramientaVisualizacionDeDatos",
         githun_page: "https://github.com/kgarcia18/HerramientaVisualizacionDeDatos",
         descripcion: "Este proyecto en Java proporciona una interfaz gráfica para analizar texto, mostrando estadísticas como el número de oraciones, palabras, letras, números y espacios entre palabras. "
-    }
+    },
+    {
+        titulo: "Indice de masa corporal en java",
+        img: "https://github.com/kgarcia18/img/blob/main/img/IMC.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/IMC",
+        githun_page: "https://github.com/kgarcia18/IMC",
+        descripcion: "Este proyecto Java implementa una calculadora de Índice de Masa Corporal (IMC) dentro de una interfaz gráfica mediante Swing."
+    },
 ];
 
 export{lista_webs};
