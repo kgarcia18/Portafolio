@@ -48,7 +48,14 @@ let lista_webs = [
         link_repo: "https://github.com/kgarcia18/GeneradorDeContrasena_2024",
         githun_page: "https://kgarcia18.github.io/GeneradorDeContrasena_2024/",
         descripcion: "Este proyecto consiste en un generador de contraseñas interactivo desarrollado con HTML para la estructura básica, CSS para estilizar la interfaz y hacerla responsive, y JavaScript para la lógica que genera contraseñas seguras basadas en criterios definidos por el usuario, como longitud y tipos de caracteres."
-    }  
+    },
+    {
+        titulo: "Herramienta de visualización de datos",
+        img: "https://github.com/kgarcia18/img/blob/main/img/VisualizadorDeDatos.png?raw=true",
+        link_repo: "https://github.com/kgarcia18/HerramientaVisualizacionDeDatos",
+        githun_page: "https://github.com/kgarcia18/HerramientaVisualizacionDeDatos",
+        descripcion: "Este proyecto en Java proporciona una interfaz gráfica para analizar texto, mostrando estadísticas como el número de oraciones, palabras, letras, números y espacios entre palabras. "
+    }
 ];
 
 export{lista_webs};
