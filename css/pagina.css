@@ -163,7 +163,8 @@
     .proyecto{
         height: 12rem;
         display: grid;
-        font-size: 0.8rem;
+        font-size: 0.6rem;
+        text-align: center;
         grid-template-rows: 20% 80%;
     }
 }
